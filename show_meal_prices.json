@@ -1,17 +1,17 @@
 [
   {
     "version": "1.0.2",
-    "url": "https://twinny.atlassian.net/wiki/spaces/twinnyHelper/pages/3128524825/1.0.2",
+    "url": "https://bit.ly/2LWp9NY",
     "patch_info": "디자인 개선"
   },
   {
     "version": "1.0.1",
-    "url": "https://twinny.atlassian.net/wiki/spaces/twinnyHelper/pages/3121480788/1.0.1",
+    "url": "https://bit.ly/360vChT",
     "patch_info": "휴가 신청 구현. (휴가 타입별로 휴가 결제신청 가능)\n지원삭제기능 구현.\n자원 디테일 페이지 구현.\n자원 목록 순서정렬 구현.\n각 페이지별 새로고침 지원."
   },
   {
     "version": "1.0.0",
-    "url": "https://twinny.atlassian.net/wiki/spaces/twinnyHelper/pages/3121120449",
+    "url": "https://bit.ly/3qGdYaZ",
     "patch_info": "TwinnyHelper 최초패포"
   }
 ]
