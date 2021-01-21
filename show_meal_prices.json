@@ -1,0 +1,17 @@
+[
+  {
+    "version": "1.0.2",
+    "url": "https://",
+    "patch_info": "패치내역"
+  },
+  {
+    "version": "1.0.1",
+    "url": "https://",
+    "patch_info": "패치내역"
+  },
+  {
+    "version": "1.0.0",
+    "url": "https://",
+    "patch_info": "TwinnyHelper 최초패포"
+  }
+]
