@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.1.0",
+    "url": "https://bit.ly/2LWp9NY",
+    "patch_info": "하루에 2번이상 출근할 경우에 대응 패치/nIOS상단/하단 이상하게 나타나는 버그 수정\n출근시간 및 식대계산 로직 개선\nIOS 햅틱터치 지원"
+  },
+  {
     "version": "1.0.2",
     "url": "https://bit.ly/2LWp9NY",
     "patch_info": "디자인 개선"
