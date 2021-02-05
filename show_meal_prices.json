@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.1.1",
+    "url": "https://bit.ly/3azpnmF",
+    "patch_info": "http-> https 지원\n앱을 백그라운드에서 foreground로 변경시, 자동으로 재로그인하도록 개선"
+  },
+  {
     "version": "1.1.0",
     "url": "https://bit.ly/2Ygt1vQ",
     "patch_info": "하루에 2번이상 출근할 경우에 대응 패치/nIOS상단/하단 이상하게 나타나는 버그 수정\n출근시간 및 식대계산 로직 개선\nIOS 햅틱터치 지원"
