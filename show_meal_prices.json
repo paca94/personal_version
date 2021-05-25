@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.2.3",
+    "url": "https://bit.ly/3oXDAAI",
+    "patch_info": "bizbox api 변경사항 대응"
+  },
+  {
+    "version": "1.2.2",
+    "url": "https://bit.ly/2QPr1uq",
+    "patch_info": "버그 수정"
+  },
+  {
     "version": "1.2.1",
     "url": "https://bit.ly/38QfrVQ",
     "patch_info": "버그 수정 및 전결 추가"
