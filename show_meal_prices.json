@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.2.4",
+    "url": "https://bit.ly/3qN32tx",
+    "patch_info": "식대 8000원 적용"
+  },
+  {
     "version": "1.2.3",
     "url": "https://bit.ly/3oXDAAI",
     "patch_info": "bizbox api 변경사항 대응"
